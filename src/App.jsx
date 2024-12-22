@@ -28,7 +28,7 @@ function App() {
       }}
     >
       <div className='bg-blue-600 p-3 mt-0 rounded-xl w-auto h-fit'>
-        <h1 className="text-6xl text-white ">Corrency Convetor</h1>
+        <h1 className="text-6xl text-white ">Currency Converter</h1>
       </div>
       <div className="w-full">
         <div className="w-full max-w-md mx-auto m  border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
